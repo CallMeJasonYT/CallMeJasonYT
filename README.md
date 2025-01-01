@@ -13,7 +13,6 @@ Hi 👋! My name is Jason and I'm an Undegraduate Computer Engineering Student, 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CallMeJasonYT&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=CallMeJasonYT&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <img src="https://raw.githubusercontent.com/CallMeJasonYT/CallMeJasonYT/output/snake.svg" alt="Snake animation" />
 
